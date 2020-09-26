@@ -20,6 +20,7 @@ I am currently following this online tutorial by Classsed:
 The website he creates is similar to the one I want to make so I decided to use his tutorial as a starting point.
 
 ## Screenshots
+Screenshot posted in 9/25/2020
 ![Current state](./img/currentscreenshot.JPG)
 
 ## Technologies
