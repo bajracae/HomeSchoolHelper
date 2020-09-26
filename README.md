@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General Information](#general-information)
+* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -17,6 +18,9 @@ I am currently following this online tutorial by Classsed:
 * https://www.youtube.com/playlist?list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP
 
 The website he creates is similar to the one I want to make so I decided to use his tutorial as a starting point.
+
+## Screenshots
+*Coming soon*
 
 ## Technologies
 Project is created with:
@@ -41,7 +45,7 @@ List of features ready and TODOs for future development
 To-do list
 * Allow users to post statuses
 * Allow users to like statuses
-* (Yet to determine)
+* *Yet to determine*
 
 ## Status
 Project is: *in progress*
