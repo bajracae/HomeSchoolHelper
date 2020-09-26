@@ -20,7 +20,7 @@ I am currently following this online tutorial by Classsed:
 The website he creates is similar to the one I want to make so I decided to use his tutorial as a starting point.
 
 ## Screenshots
-*Coming soon*
+![Current state](./img/currentscreenshot.JPG)
 
 ## Technologies
 Project is created with:
